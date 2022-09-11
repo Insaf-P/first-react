@@ -1,8 +1,17 @@
-body{
-    width: 100%;
-    font-family: 'Poppins', sans-serif;
+body {
+	width: 100%;
+	font-family: 'Poppins', sans-serif;
 }
 
-.downloadbutton{
-    background-color: aquamarine;
+.downloadbutton {
+	background-color: aquamarine;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	margin: 0;
 }
